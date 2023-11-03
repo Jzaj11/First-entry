@@ -5,3 +5,5 @@ pierwszy plik
 mały update w zacommitowanym pliku :)
 
 created new branch 
+
+aktualizacja na githubie :)
