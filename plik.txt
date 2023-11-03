@@ -1,3 +1,5 @@
 pierwszy plik
 
 1 update nowa linijka
+
+mały update w zacommitowanym pliku :)
